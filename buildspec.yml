@@ -15,4 +15,4 @@ phases:
     commands:
       - echo Completed build at `date`
       - echo Pushing the Docker image...
-      - docker push 948339118261.dkr.ecr.us-east-1.amazonaws.com/test-ecr:latest
+      - docker push 948339118261.dkr.ecr.us-east-1.amazonaws.com/test-ecr:0.0.1
